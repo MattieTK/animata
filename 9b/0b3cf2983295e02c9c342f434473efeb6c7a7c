@@ -1,0 +1,19 @@
+wrangler.jsonc
+  s_a8444baee7921e::t_4448e097b6c27d 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "9b0b3cf2983295e02c9c342f434473efeb6c7a7c",
+  "prompts": {},
+  "sessions": {
+    "s_a8444baee7921e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1784b-5e08-7fb3-89b8-d88908adfa22",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Matt TK Taylor <matttaylor@cloudflare.com>"
+    }
+  }
+}
