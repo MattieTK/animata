@@ -1,0 +1,19 @@
+DEPLOYMENT.md
+  s_a8444baee7921e::t_0b7488f18fc739 20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "00823d09e0404213a5cb14d602a8cf3954b2fa35",
+  "prompts": {},
+  "sessions": {
+    "s_a8444baee7921e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1784b-5e08-7fb3-89b8-d88908adfa22",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Matt TK Taylor <matttaylor@cloudflare.com>"
+    }
+  }
+}
