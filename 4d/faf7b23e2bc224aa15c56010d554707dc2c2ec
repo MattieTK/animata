@@ -1,0 +1,21 @@
+.github/workflows/deploy.yml
+  s_a8444baee7921e::t_c32d0deb9102b1 9-11,13,17-18,20,23,25,45-82,89-90,92
+DEPLOYMENT.md
+  s_a8444baee7921e::t_8f91cf9a576169 18-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4dfaf7b23e2bc224aa15c56010d554707dc2c2ec",
+  "prompts": {},
+  "sessions": {
+    "s_a8444baee7921e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1784b-5e08-7fb3-89b8-d88908adfa22",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Matt TK Taylor <matttaylor@cloudflare.com>"
+    }
+  }
+}
