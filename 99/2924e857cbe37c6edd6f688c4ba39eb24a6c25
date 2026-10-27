@@ -1,0 +1,21 @@
+scripts/build-og-images.mjs
+  s_a8444baee7921e::t_106abdb787679d 473
+scripts/upload-og-r2.mjs
+  s_a8444baee7921e::t_f2a741e9c19dae 30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "992924e857cbe37c6edd6f688c4ba39eb24a6c25",
+  "prompts": {},
+  "sessions": {
+    "s_a8444baee7921e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1784b-5e08-7fb3-89b8-d88908adfa22",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Matt TK Taylor <matttaylor@cloudflare.com>"
+    }
+  }
+}
